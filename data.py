@@ -44,8 +44,8 @@ for i, file in enumerate(file_list):
 
             CFID = None
             for script in soup.find_all('script'):
-                if script.string and 'www.curseforge.com/minecraft/mc-mods/' in script.string:
-                    CFID = script.string.split('www.curseforge.com/minecraft/mc-mods/')[1].split('"')[0]
+                if script.string and '.val("https://www.curseforge.com/minecraft/mc-mods/' in script.string:
+                    CFID = script.string.split('.val("https://www.curseforge.com/minecraft/mc-mods/')[1].split('"')[0]
                     break
 
             data_multi_id_ename = soup.find(attrs={'data-multi-id': 'ename'})
