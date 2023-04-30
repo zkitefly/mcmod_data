@@ -1,0 +1,692 @@
+﻿{
+  "mod": [
+    {
+      "name": {
+        "main": "被遗忘的大自然",
+        "sub": "Forgotten Nature",
+        "abbr": "FN"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/10.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-560785-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "ForgottenNature"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "辉夜姬的五难题",
+        "sub": "五つの難題MOD+ ~ Touhou Items",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/touhou-item-mod"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/11.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-250249-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "THKaguyaMod"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "密室",
+        "sub": "SecretRoomsMod",
+        "abbr": "SR"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/secretroomsmod"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/12.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "secretroomsmod"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "野营",
+        "sub": "The Camping Mod",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/rikmulds-core-mod"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/13.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-112997-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "camping"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "有用的食物",
+        "sub": "UsefulFood",
+        "abbr": "UF"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/usefulfood"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/14.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-195107-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "UsefulFood"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "变压器",
+        "sub": "Transformers",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/16.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "snyke7_Transformers"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "吉米的家具",
+        "sub": "Jammy Furniture",
+        "abbr": "JF"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/17.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-407949-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "jammyfurniture,JammyFurniture"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "模块化力场系统",
+        "sub": "Modular Forcefield System",
+        "abbr": "MFFS"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/18.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "modularforcefieldsystem"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "化学",
+        "sub": "MineChem",
+        "abbr": "CH"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/19.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "minechem"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "工业时代2",
+        "sub": "Industrial Craft 2",
+        "abbr": "IC2"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/2.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-515771-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "IC2,ic2"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "更多箱子",
+        "sub": "Iron Chests",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/20.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-372723-1-1.html"
+          },
+          {
+            "type": "modrinth",
+            "url": "https://www.modrinth.com/mod/cyberanner-ironchest"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "IronChest,ironchest"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "更多武器",
+        "sub": "Balkon's WeaponMod",
+        "abbr": "BWM"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/balkons-weaponmod"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/21.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "weaponmod"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "高级机械",
+        "sub": "AdvancedMachines",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-machines"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/22.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "AdvancedMachines,advanced_machines"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "高级太阳能",
+        "sub": "Advanced Solar Panels",
+        "abbr": "ASP"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/23.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "AdvancedSolarPanel,advanced_solar_panels"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "核电控制2",
+        "sub": "Nuclear Control 2",
+        "abbr": "IC2NC"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/nuclear-control-2"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/24.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "IC2NuclearControl"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "魔法艺术",
+        "sub": "Ars Magica",
+        "abbr": "AM"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/25.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "更好的地牢/寻找巧克力",
+        "sub": "Better Dungeons / Chocolate Quest",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/better-dungeons"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/26.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-418940-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "chocolateQuest"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "Flan的枪械",
+        "sub": "Flan's Mod",
+        "abbr": ""
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/27.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-1055461-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "flansmod"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "神秘时代3",
+        "sub": "Thaumcraft 3",
+        "abbr": "TC3"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/29.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-776706-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "Thaumcraft"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "红石力量2",
+        "sub": "RedPower2",
+        "abbr": "RP2"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/3.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-71843-1-1.html"
+          },
+          {
+            "type": "modrinth",
+            "url": "https://www.modrinth.com/mod/redpower2-core"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "RedPowerCore,RedPowerBase"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "Minecraft Forge",
+        "sub": "",
+        "abbr": "Forge"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/30.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "Forge,forge"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "等价交换3",
+        "sub": "Equivalent Exchange 3",
+        "abbr": "EE3"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/ee3"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/31.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "EE3"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "建筑",
+        "sub": "BuildCraft",
+        "abbr": "BC"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/buildcraft"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/4.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-884720-1-1.html"
+          },
+          {
+            "type": "modrinth",
+            "url": "https://www.modrinth.com/mod/buildcraft"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "BuildCraft|Core,buildcraftlib,buildcraftcore,buildcraftbuilders,buildcrafttransport,buildcraftsilicon,buildcraftfactory,buildcraftrobotics,buildcraftenergy,BuildMod,kamenridercraft4th,BuildCraft|Energy,BuildCraft|Transport,BuildCraft|Factory,BuildCraft|Silicon,BuildCraft|Builders,BuildCraft|Robotics"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "林业",
+        "sub": "Forestry",
+        "abbr": "FR"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/forestry"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/5.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-708812-1-1.html"
+          },
+          {
+            "type": "modrinth",
+            "url": "https://www.modrinth.com/mod/forestry"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "Forestry,forestry"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "铁路",
+        "sub": "Railcraft",
+        "abbr": "RC"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/railcraft"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/6.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-603270-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "Railcraft,railcraft"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "我的工厂重置版",
+        "sub": "MineFactory Reloaded",
+        "abbr": "MFR"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "curseforge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/minefactory-reloaded"
+          },
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/7.html"
+          },
+          {
+            "type": "mcbbs",
+            "url": "https://www.mcbbs.net/thread-693826-1-1.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "MineFactoryReloaded|CompatVanilla,MineFactoryReloaded|CompatAppliedEnergistics,MineFactoryReloaded|CompatForgeMicroblock,MineFactoryReloaded|CompatThaumcraft,MineFactoryReloaded|CompatThermalExpansion,MineFactoryReloaded|CompatIC2,MineFactoryReloaded|CompatForestry,MineFactoryReloaded|CompatMagicalCrops,MineFactoryReloaded|CompatBuildCraft,MineFactoryReloaded|CompatRailcraft,MineFactoryReloaded,MineFactoryReloaded|CompatAtum,MineFactoryReloaded|CompatBackTools,MineFactoryReloaded|CompatChococraft,MineFactoryReloaded|CompatExtraBiomes,MineFactoryReloaded|CompatForestryPre,MineFactoryReloaded|CompatMystcraft,MineFactoryReloaded|CompatPams,MineFactoryReloaded|CompatRP2,MineFactoryReloaded|CompatSufficientBiomes,minefactoryreloaded"
+        ]
+      }
+    },
+    {
+      "name": {
+        "main": "等价交换2",
+        "sub": "Equivalent Exchange 2",
+        "abbr": "EE2"
+      },
+      "links": {
+        "list": [
+          {
+            "type": "mcmod",
+            "url": "https://www.mcmod.cn/class/9.html"
+          }
+        ]
+      },
+      "modid": {
+        "list": [
+          "mod_EE"
+        ]
+      }
+    }
+  ]
+}
