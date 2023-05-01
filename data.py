@@ -35,11 +35,11 @@ for i, file in enumerate(file_list):
             MCBBS = None
             for script in soup.find_all('script'):
                 if script.string and '.val("https://www.mcbbs.net/thread-' in script.string:
-                    MRID  = script.string.split('/thread-')[1].split('-')[0]
+                    MCBBS  = script.string.split('/thread-')[1].split('-')[0]
                 if script.string and '.val("http://www.mcbbs.net/thread-' in script.string:
                     MCBBS = script.string.split('/thread-')[1].split('-')[0]
                 if script.string and '.val("https://mcbbs.net/thread-' in script.string:
-                    MRID  = script.string.split('/thread-')[1].split('-')[0]
+                    MCBBS  = script.string.split('/thread-')[1].split('-')[0]
                 if script.string and '.val("http://mcbbs.net/thread-' in script.string:
                     MCBBS = script.string.split('/thread-')[1].split('-')[0]
                 if script.string and '.val("https://www.mcbbs.net/forum.php?mod=viewthread&tid=' in script.string:
