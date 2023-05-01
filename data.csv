@@ -1,27 +1,920 @@
 ;10;560785;ForgottenNature;被遗忘的大自然;Forgotten Nature;FN
+minecraft-comes-alive-mca;100;727273;mca;虚拟人生/凡家物语;Minecraft Comes Alive;MCA
+digimobs;1000;428998;digimobs;数码宝贝;Digimobs;DM
+;101;;TConstruct;匠魂;Tinkers' Construct;TiC
+;102;;BukkitForge;BukkitForge;;
+forge-essentials-74735;103;;;ForgeEssentials;;
+;104;;palaria;帕拉瑞亚;Palaria;
+translocators;105;;Translocator,translocators;转运器;Translocators;
+craftguide;106;723306;craftguide;G键合成表;CraftGuide;
+;107;;mobdictionary;生物图鉴;Mob Dictionary;
+biomes-o-plenty;108;814732;biomesoplenty;超多生物群系;Biomes O' Plenty;BOP
+;109;588294;BambooMod;竹;Bamboo;
 touhou-item-mod;11;250249;THKaguyaMod;辉夜姬的五难题;五つの難題MOD+ ~ Touhou Items;
+;110;;;立体机动装置（Ibemu版）;立体機動装置MOD;TDMG
+enhanced-portals-3;111;;enhancedportals;增强传送门3;Enhanced Portals 3;
+compact-solars;112;807551;compactsolars,CompactSolars;压缩太阳能阵列;CompactSolars / Compact Solar Arrays;
+bibliocraft;113;;BiblioCraft,bibliocraft;收藏馆;BiblioCraft;
+natura;114;;Natura,natura;自然;Natura;
+atomic-science;115;;atomicscience;原子科学;Atomic Science;
+;116;985499;shouldersurfing;越肩视角;Shoulder Surfing;
+atum;117;1207987;atum;阿图姆：沙漠之旅/亚图姆：金沙之旅;Atum 2: Return to the Sands;ATUM2
+blockphysics_by_id_miner;118;;BlockPhysics;方块物理学;BlockPhysics;
+;119;;;火箭科技;Rocket Science;RS
 secretroomsmod;12;;secretroomsmod;密室;SecretRoomsMod;SR
-rikmulds-core-mod;13;112997;camping;野营;The Camping Mod;
+;120;199143;grimoireofgaia;盖亚魔典2;GRIMOIRE OF GAIA 2;GOG2
+remain-in-motion;121;;JAKJ_RedstoneInMotion;运动红石机构;Redstone in motion;
+;122;;;开放式电脑传感器;OpenCCSensors;OpenCCS
+;123;;OpenPeripheral;开放式电脑外设;OpenPeripheral;
+modular-powersuits;124;;powersuits;模块化动力套装;Modular Powersuits;MPS
+;129;;immibis_microblocks;Immibis的小方块;Immibis's Microblocks;
+the-camping-mod;13;112997;camping;野营;The Camping Mod;
+;132;;RedLogic;红石逻辑;RedLogic;
+;133;;;能量工厂;Power Craft;PC
+;134;;ObsidiPlates;黑曜石压力板;ObsidiPlates;
+;135;;InfiniTubes;终极管道;InfiniTubes;
+flatsigns;136;;FlatSigns;平置牌子;FlatSigns;
+switches;137;;switches;按钮开关;Switches;
+artifice;138;;Artifice;工匠的手艺;Artifice;
 usefulfood;14;195107;UsefulFood;有用的食物;UsefulFood;UF
+archimedes-ships;140;;ArchimedesShipsPlus,ArchimedesShips;阿基米德之舟;Archimedes' Ships;
+files;141;;cubebots;立方体机器人;CubeBots;CB
+truss-mod;142;;TrussMod;桁架;Truss Mod;
+mutant-creatures-mod;143;;MutantCreatures;突变生物;Mutant Creatures;
+;144;151933;minegicka;魔能2;Minegicka II;
+logistics-pipes;145;;LogisticsPipes,logisticspipes;物流管道;Logistics Pipes;LP
+binnies-mods;146;;ExtraTrees,extratrees;更多树;Extra Trees;
+magic-bees;148;;MagicBees,magicbees;魔法蜜蜂;Magic Bees;MB
+carpenters-blocks;149;461134;CarpentersBlocks;木匠方块;Carpenter's Blocks;
+powerconverters-portablejims-fork;15;;PowerConverters;能源转换;PowerConverters;PC
+mystcraft;150;;mystcraft;神秘岛;Mystcraft;
+;151;;;牛仔帽;Cowboy Hat Mod;
+;152;127877;fontsfix;英文显示默认字体;FontsFix;
+;153;354477;;达特工艺;DartCraft;DC
+minesweeper-mod;154;;MinesweeperMod;扫雷;Minesweeper;
+minechess;155;;MineChess;国际象棋;MineChess;
+;156;143601;MineCharacter;职业;MineCharacter;
+;157;;tennox_bacteria;细菌;Bacteria;
+;158;145719;;贝爷;BearGrylls;BG
+;159;;factorization;因式分解;Factorization;FZ
 ;16;;snyke7_Transformers;变压器;Transformers;
+;160;;;我的幻想;MineFantasy;MF
+;161;;;机关;UgoCraft;
+;162;;ColoredWool;真彩色羊毛;Full RGB Colored Wool;
+;163;79614;;你是苦力怕;You Are The Creeper;
+;164;;ProjRed|Core,projectred-integration,projectred-transmission,projectred-expansion,projectred-relocation,projectred-transportation,projectred-fabrication,projectred-exploration,projectred-compat,projectred-illumination,ProjRed|Transmission,ProjRed|Integration,ProjRed|Illumination,ProjRed|Expansion,ProjRed|Exploration,ProjRed|Transportation,ProjRed|Fabrication,ProjRed|Compatibility,projectred-core;红石计划;ProjectRed;PR
+;165;;OpenXP;开放式经验;OpenXP;
+dimensionaldoors;166;896027;dimdoors;次元门;Dimensional Doors;
+chickenchunks;167;;chickenchunks;区块载入器;ChickenChunks;
+dlt2;168;;dynamictanks;动态蓄水槽;Dynamic Liquid Tanks;DLT
+;169;;TechnicalVanilla;海绵科技;Technical Vanilla;
 ;17;407949;jammyfurniture,JammyFurniture;吉米的家具;Jammy Furniture;JF
+webdisplays-remasterd;170;778743;webdisplays,WebDisplay;内置网页浏览器;WebDisplays;WD
+morph;171;;Morph;变身;Morph;
+;172;;;自定义旗帜;Custom Flags;
+;173;;;泰拉瑞亚3D;Terraria 3D;T3D
+extracells2;174;;extracells;更多存储单元2;Extra Cells 2;EC2
+;175;;itemrender;渲染图片导出;Item Render;IR
+;176;;;齐柏林;Zeppelin;
+billund-223258;177;;Billund;乐高;Billund;
+;178;;AlchemyPlusPlus;炼金++;Alchemy++;
+better-bows;179;;QuiverMod;更好弓箭系统;Better Archery Mod;
 modular-forcefield-system;18;;modularforcefieldsystem;模块化力场系统;Modular Forcefield System;MFFS
+mumblelink;180;;mumblelink;Mumble语音链接;Mumblelink;
+ender-io;181;677063;enderioconduitsappliedenergistics,enderiointegrationforestry,enderioconduitsopencomputers,enderioconduitsrefinedstorage,enderioendergy,enderiobase,enderioconduits,enderiointegrationticlate,enderiomachines,enderiopowertools,enderiointegrationtic,enderio,EnderIO;末影接口;Ender IO;EIO
+;184;171103;LevelStorage;等级存储;LevelStorage;
+electrodynamics;185;;electrodynamics;电动力学;Electrodynamics;
+mc-1-6-4-solar-apocalypse;186;;genuine-ea;Elite Armageddon;;
+mekanism;187;654082;Mekanism,mekanism;通用机械;Mekanism;Mek
+;188;;;吹熄火焰！;Blow Me!;
+;189;;Somnia;梦短人生长/真实睡眠;Somnia;
 ;19;;minechem;化学;MineChem;CH
+magic-crusade-rpg-mod;190;;;魔法远征:魔法十字军;Magic Crusade;
+invasions;191;;Invasion,mod_Invasion;入侵;Invasion;
+;192;;battlegear2;挖矿与砍杀:双持与战备2;Mine & Blade: Battlegear 2;
+;193;;;青蛙化工;FrogCraft;FC
+galacticraft-legacy;194;802464;GalacticraftCore,galacticraftplanets,GalacticraftMars,galacticraftcore;星系;GalactiCraft;GC
+;195;455048;dungeonpack;地牢拓展;DungeonPack;
+;196;287210;LittleBlocks;小方块;Little Blocks;
+;197;;CustomStuff2;自定义物品2;Custom Stuff 2;CS2
+journeymap;198;612917;JourneyMapServer,journeymap;旅行地图;Journey Map;JM
+;199;;;线程优化;TickThreading;
 industrial-craft;2;515771;IC2,ic2;工业时代2;Industrial Craft 2;IC2
 iron-chests;20;372723;IronChest,ironchest;更多箱子;Iron Chests;
+underground-biomes;201;;;科学地质;Underground Biomes;UB
+fpsplus-lagfixes;202;;fpsplus;FPS优化;FPS Plus;
+;203;;arsmagica2;魔法艺术2;Ars Magica 2;AM2
+thaumcraft;204;776706;Thaumcraft;神秘时代4;Thaumcraft 4;TC4
+;205;;Highlands;高地;Highlands;
+doggy-talents;206;713458;doggytalents;小狗天才;Doggy Talents;DT
+;207;;plasmacraft;电浆工艺;PlasmaCraft;PC
+;208;;;更多生命;More Health ENHANCED;
+fossils;209;856874;HungerOverhaul;考古与化石;Fossils and Archeology Revival;F/A
 balkons-weaponmod;21;;weaponmod;更多武器;Balkon's WeaponMod;BWM
+glenns-gases;210;;gasesFrameworkCore,gasesFramework,gases;格林的气体;Glenn's Gases;
+the-lord-of-the-rings-mod-legacy;211;1084629;lotr;魔戒：传承;The Lord of the Rings Mod: Legacy;LotR
+thaumic-tinkerer;212;;ThaumicTinkerer,ThaumicTinkerer-preloader,thaumictinkerer;神秘工匠;Thaumic Tinkerer;TT
+;213;;Paleocraft;古生代;Paleocraft;
+metallurgy;214;;;冶金3;MetallurgyIII;
+xycraft;216;;xycraft;XyCraft;;
+chococraft;217;;chococraft;陆行鸟;ChocoCraft;
+pams-harvestcraft;218;669856;harvestcraft;潘马斯农场;Pam's HarvestCraft;PHC
+blood-magic;219;1425356;AWWayofTime,bloodmagic;血魔法;Blood Magic;BM
 advanced-machines;22;;AdvancedMachines,advanced_machines;高级机械;AdvancedMachines;
+opis;220;;Opis;Opis;;
+;221;169093;;世界树/巨树;Yggdrasill;
+openblocks;222;;OpenBlocks,openblocks;开放式方块;OpenBlocks;OB
+;223;;TinyCarts;微型矿车;TinyCarts;
+;225;;;冒险;AdventureCraft;AC
+;226;;MITE;MC实在是太简单了;Minecraft Is Too Easy;MITE
+randomcraft-v0-1-0;227;;RandomCraft;随机工艺;RandomCraft;
+;228;;DragonMounts;龙坐骑/龙骑士;Dragon Mounts;DM
+;229;;animalbikes;动物坐骑;Animal Bikes;AB
 advanced-solar-panels;23;;AdvancedSolarPanel,advanced_solar_panels;高级太阳能;Advanced Solar Panels;ASP
+;230;165454;BetterGrassAndLeavesMod;更好的草地和树叶;Better Grass & Leaves;
+electro-magic-tools;232;;EMT;电力魔法工具;Electro-Magic Tools;EMT
+;233;;ForbiddenMagic;禁忌魔法;Forbidden Magic;FM
+mobtalker2;234;193844;mobtalker2;怪物交谈2;MobTalker 2;
+icbm-classic;235;;;洲际导弹;ICBM;ICBM
+thaumic-infusion?gameCategorySlug=mc-mods&projectID=220308;236;;thaumicinfusion;神秘注魔;Thaumic Infusion;TI
+thaumic-exploration;237;;ThaumicExploration;神秘探险;Thaumic Exploration;TX
+;238;825992;deconstruction;解构工作台;Deconstruction Table;
 nuclear-control-2;24;;IC2NuclearControl;核电控制2;Nuclear Control 2;IC2NC
+;240;;magmamod;岩浆工具;The Magma Items;
+b0bgarys-growable-ores;241;;B0bGrowsOre;可生长矿石;B0bGary's Growable Ores;BGO
+;242;168625;;基础ID修复工具;Idfix;
+;243;168625;;高级ID修复工具;IdfixMinus;
+;244;296056;;远陆时代2;Far Land Era2;FLE2
+;245;;CompactEngine;高效率引擎;Compact Engine;
+waila;246;592847;Waila,waila;高亮信息拓展;What am I looking at;Waila
+;247;;Chaos_Technology;混沌工艺;ChaosCraft;CC
+;248;;;矿物追踪;Scenter;
+;249;401486;otaku_craft;御宅工艺;Otaku Craft;OtC
 ;25;;;魔法艺术;Ars Magica;AM
+;250;195925;exnihilo;无中生有;Ex Nihilo;ExN
+reactorcraft;251;;ReactorCraft;反应堆工艺;ReactorCraft;ReC
+bctools;252;;BCTools;BC扩展：更多工具;Buildcraft Tools;
+additional-buildcraft-objects;253;;;更多管道;Additional Buildcraft Objects;
+;254;;foundry;金属工坊;Foundry;
+gravitation-suite;255;734193;GraviSuite,gravisuite;重力装甲;Gravitation Suite;
+redstone-arsenal;256;;redstonearsenal,RedstoneArsenal;红石兵工厂;Redstone Arsenal;RSA
+big-reactors;257;348989;BigReactors;大型反应堆;Big Reactors;BR
+;258;;;谐振感应;Resonant-Induction;RI
+endertanks;259;;endertanks;末影水槽;Ender Tanks;
 better-dungeons;26;418940;chocolateQuest;更好的地牢/寻找巧克力;Better Dungeons / Chocolate Quest;
-flans-mod-5-5-2;27;1055461;flansmod;Flan的枪械;Flan's Mod;
+applied-energistics-2;260;798231;appliedenergistics2,appliedenergistics2-core,ae2;应用能源2;Applied Energistics 2;AE2
+;261;;HopperDuctMod,hopperducts;漏斗管道;Hopper Ducts;
+autofish;262;630098;autofish;自动钓鱼;Autofish;
+wr-cbe-universal;264;621428;WR-CBE,WR-CBE|Logic,WR-CBE|Addons,WR-CBE|Core,wrcbe;无线红石;Wireless Redstone;WR-CBE
+;265;218536;;终极农业;Agent's Agriculture;
+;266;;;异次元物品存储;Extradimensional Item Storage;EIS
+per-fabrica-ad-astra-geologica;267;;PFAAGeologica;自合成至星辰：真实地理;Per Fabrica Ad Astra: Geologica;PFAA
+;268;;;更好的矿物挖掘;Better Mining;BM
+redstone-furnace;269;;;红石炉;Redstone Furnace;
+pneumaticcraft;270;;PneumaticCraft,PneumaticCrap,pneumaticcraft;气动工艺;PneumaticCraft: Repressurized;PnC
+;271;;;能源转换器;Transducers;
+thirst-mod;272;78952;thirstmod;饮水;Thirst Mod;
+;273;;tubes;管道;Tubes;
+pchan3-steamship-steamboat-pirates;274;;pchan3;飞艇与汽船;SteamShip - SteamBoat and Pirates;PChan3
+;275;;powersuits;模块化动力装甲扩展;Modular Powersuits Addons;MPSA
+betterfarming;276;81870;;农业增强;Better Farming;
+;277;;AdvancedTools;IC扩展：高级工具;Advanced Tools;
+lots-of-food;278;73013;LotsOfFood;更多食物;Lots Of Food;
+;279;275168;FoodPlus;食物Plus;Food Plus;
+aquaculture;281;1359313;aquaculture;水产业2/水产品2;Aquaculture 2;
+;282;;;高级工作台;Project Bench;
+;283;;extendedWorkbench;扩展工作台;Extended Workbench;
+apples-plus;284;;apples;更多苹果;Apples+;
+;285;165727;;啤酒;Beer Mod;
+;286;;qCraft;量子物理;QCraft;QC
+;287;;enderCraft;末影工艺;EnderCraft;
+mad-science;288;;madscience;疯狂科学;Mad Science;
+;289;;QuarryPlus;采石场增强;Quarry Plus;
 ;29;776706;Thaumcraft;神秘时代3;Thaumcraft 3;TC3
+;290;;enviromine;更多生存要素;EnviroMine;
+;291;;;群峦扩展;ExtraFirma;EF
+the-erebus;292;856406;erebus;混沌之地;The Erebus;
+emerald-mod;293;282677;emeraldmod;绿宝石Mod;Emerald Mod;
+lucky-block-official;294;;lucky;幸运方块;Lucky Block;LB
+dynamic-lights;295;593066;DynamicLights,DynamicLights_onFire,DynamicLights_creepers,DynamicLights_dropItems,DynamicLights_entityClasses,DynamicLights_mobEquipment,DynamicLights_thePlayer,DynamicLights_otherPlayers,DynamicLights_flameArrows;动态光源;Dynamic Lights;DL
+yarr-cute-mob-models-remake;296;176541;yarr_cutemobmodels;怪物娘化;Yarr Cute Mob Models - Remake;
+monster-hunter-frontier-craft;297;;mhfc;怪物猎人边境工艺;Monster Hunter Frontier Craft;MHFC
+zombie-awareness;298;;zombieawareness;僵尸意识;Zombie Awareness;ZA
+remote-io;299;;RIO;远程接口;Remote IO;RIO
 ;3;71843;RedPowerCore,RedPowerBase;红石力量2;RedPower2;RP2
 ;30;;Forge,forge;Minecraft Forge;;Forge
+electrical-age;300;;Eln;电力时代;Electrical Age;ELN
+;301;;;可升级机器;Upgradable Machines;
+;302;;PowerUtils;电力转换;Power Utilites;
+;303;;;小型炼金术;Minor Alchemy;
+;304;;;更多TNT;TooMuchTNT;
+;305;;;更多爆炸物;More Explosives Mod;
+;306;;;生物病毒;MineInfection;
+;307;;;高级能量工具;Advanced Flux Tools;
+;308;;;自然工艺;Natural Craft;NC
+mcicraft;309;;mcicraft,mcicraft_machines,mcicraft_redstone,mcicraft_farming;MCI工艺;MCI Craft;
 ee3;31;;EE3;等价交换3;Equivalent Exchange 3;EE3
+;310;;;能源操纵;Energy Manipulation;
+;311;;Lantern;手电与照明;Lanterns and Flashlights;
+engineers-toolbox;312;;eng_toolbox;工程师工具箱;Engineer's Toolbox;
+;313;;;电子工具：红石供电工具;E-Tools: Redstone Powered Tools;
+;314;;AppliedThermodynamics;应用热力学;Applied Thermodynamics;
+modular-systems;315;;modularsystems;模块化熔炉2;Modular Furnaces 2/Modular Systems;
+;316;;;原子科技;Atomicraft;
+;317;;;火车工业;Traincraft;TC
+;318;;HydCraft;液压工艺;Hydraulicraft;HC
+utilities3;319;;;流体能量;Utilities³;
+minefactory-reloaded;32;;MineFactoryReloaded;我的工厂2;MineFactoryReloaded 2;MFR2
+;320;;;科学;The Science Mod;TSM
+;321;;;和平工艺;InspiritCraft;
+metallurgy;322;273214;MetallurgyCore,Metallurgy,metallurgycm,metallurgy;冶金4;Metallurgy 4;ML4
+school-mod-forge-1-14;324;;schoolmod;学校;School Mod;
+;325;314815;witchery;巫术;Witchery;
+growthcraft;326;;Growthcraft,growthcraft_rice,growthcraft_milk,growthcraft_hops,growthcraft_grapes,growthcraft_fishtrap,growthcraft_bees,growthcraft_cellar,growthcraft_bamboo,growthcraft_apples,Growthcraft|Rice,Growthcraft|Milk,Growthcraft|Hops,Growthcraft|Grapes,Growthcraft|Fishtrap,Growthcraft|Bees,Growthcraft|Bamboo,Growthcraft|Apples,Growthcraft|Cellar;生长工艺;GrowthCraft;GrC
+gregtech-5-unofficial;327;352465;gregtech_addon;格雷科技5;GregTech 5;GT5
+mantle;329;;Mantle,mantle;地幔;Mantle;
+;33;;;Risugami's ModLoader;;
+;330;;CustomOreGen;自定义矿物生成;Custom Ore Generation;COG
+littlemaidmobx;331;932911;MMMLibX,lmmx;女仆;LittleMaidMob;LMM
+botania;332;722470;botania,Botania;植物魔法;Botania;BOT
+alternate-terrain-generation;333;;atg;交替性地形生成;Alternate Terrain Generation;ATG
+gendustry;334;441078;gendustry;基因工业;Gendustry;
+;336;199037;;更多的配方;NotEnoughRecipes;NER
+;337;;CrossbowMod2;十字弩2;Crossbow2;
+;338;165078;mario;超级马里奥;SuperMario;
+betterfonts;339;187674;BetterFonts;更好的字体;BetterFonts;
+zelda-sword-skills;340;214349;zeldaswordskills;塞尔达剑技;ZELDA SWORD SKILLS;ZSS
+minemenu;342;302947;minemenu;我的菜单;MineMenu;
+symcalc;343;;symcalc;对称度运算仪;Symcalc;
+;344;302178;mod_ecru_MapleTree;枫树;MapleTree;MT
+;345;;;匠魂强化;TiC Tweaks;
+jabba;346;;JABBA;更好的储物桶;Just Another Better Barrel Attempt;JABBA
+mcheli-minecraft-helicopter-mod;347;;mcheli;MC直升机;MC Helicopter Mod;MCheli
+ex-aliquo;348;;exaliquo;Ex Aliquo;;
+;350;;StevesCarts;史蒂夫矿车2;Steve's Carts 2;SC2
+mariculture;351;321251;Mariculture;海洋物语;Mariculture;
+;352;;evilcraft,evilcraftcompat;邪恶工艺;EvilCraft;EC
+projecte;353;1109380;ProjectE,projecte;等价交换重制版;ProjectE;PE
+falling-meteors-mod;354;;meteors;陨石;Falling Meteors;
+thermal-expansion;357;805200;ThermalExpansion;热力膨胀4;Thermal Expansion 4;TE4
+;358;;;控制包/更方便快捷的控制;ControlPack;CP
+;36;606019;optifine;高清修复;OptiFine;OF
+glacia-dimension;360;292883;greenapple_glacia;冰河时代;Glacia;
+water-power;361;190676;WaterPower,waterpower;水力科技;Water Power;WP
+realtrainmod;362;781058;rtm;真实火车;RealTrainMod;RTM
+applemilktea2;363;464690;DCsAppleMilk;苹果奶茶2;AppleMilkTea2;AMT2
+;364;;ihouse;我的房屋;iHouse;
+;365;315722;Steamcraft;FSP蒸汽动力;Flaxbeard's Steam Power;FSP
+slashblade;366;726664;flammpfeil.slashblade;拔刀剑;SlashBlade;
+steves-factory-manager;367;;StevesFactoryManager;史蒂夫工厂管理;Steve's Factory Manager;SFM
+;369;296193;;神秘管道;Thaumic Pipes;
+thaumcraftgates;370;;thaumiumPipe;神秘管道;ThaumcraftGates;
+;371;;;神秘合成;Thaumcraft Recipes;
+;372;;;玩家死亡掉头;Player Heads;
+;373;;;更好的按键控制;Not Enough Keys;
+;374;273086;;更深的雪;Snow Deeper;
+;375;295007;petbat;宠物蝙蝠;Pet Bat Mod;
+;376;241681;;光桥和门;Light Bridges and Doors;
+;377;;craftingpillars;合成柱;Crafting Pillar Mod;CPM
+ultratech;378;;UltraTech;次元科技;UltraTech;UT
+;379;;;高级排斥系统;Advanced Repulsion Systems;ARS
+atomicstrykers-infernal-mobs;380;592395;InfernalMobs,infernalmobs;稀有精英怪;AtomicStryker's Infernal Mobs;
+applecore;381;808141;AppleCore,applecore;苹果核;AppleCore;
+thaumic-energistics;385;791638;thaumicenergistics;神秘能源;Thaumic Energistics;
+;386;172867;TofuCraft;豆腐工艺;TofuCraft;
+chisel;387;641383;chisel;凿子;Chisel;
+nuclearcraft-mod;388;;nuclearcraft;核电工艺;NuclearCraft;NC
+opencomputers;389;618383;OpenComputers,OpenComputers|Core,opencomputers,opencomputers|core;开放式电脑;Open Computers;OC
+elemental-stones;390;;;元素之石;Elemental Stones;ES
+waila-nbt;392;;WailaNBT;万用高亮显示;Waila NBT;
+;393;;tcnodetracker;神秘节点追踪;Thaumcraft Node Tracker;
+;394;;;箱载世界;Geochests;
+;395;;parachutemod;降落伞;Parachute;
+gem-buffs-infinite-potion-effects;396;;;宝石效果/增益宝石;Gem Buffs;GB
+rftools;397;416167;rftools;RF工具箱;RFTools;
+atomicstrykers-magic-yarn;398;;MagicYarn;AtomicStryker的魔法线;AtomicStryker's Magic Yarn;
+grimoire-of-gaia;399;679274;GrimoireOfGaia,grimoireofgaia;盖亚魔典3;Grimoire of Gaia 3;GOG3
 buildcraft;4;884720;BuildCraft|Core,buildcraftlib,buildcraftcore,buildcraftbuilders,buildcrafttransport,buildcraftsilicon,buildcraftfactory,buildcraftrobotics,buildcraftenergy,BuildMod,kamenridercraft4th,BuildCraft|Energy,BuildCraft|Transport,BuildCraft|Factory,BuildCraft|Silicon,BuildCraft|Builders,BuildCraft|Robotics;建筑;BuildCraft;BC
+;400;;OWG;怀旧地形;Old World Gen;OWG
+academycraft;402;421967;academy-craft,academy;超能力/学园都市;AcademyCraft;AC
+;404;722595;SpiceOfLife,spiceoflife;生活调味料;The Spice of Life;SOL
+;405;;;更好的载入界面;Minecraft Loader;
+automagy;407;;Automagy;自动化魔法;Automagy;
+storage-drawers;408;798307;StorageDrawers,storagedrawers;储物抽屉;Storage Drawers;
+wintercraft-gruntpie224;409;;;冬天的世界;Wintercraft;
+not-enough-items-1-8;41;389937;NotEnoughItems,nei;NEI物品管理器;Not Enough Items;NEI
+;410;441072;FoodCraft;食物工艺;FoodCraft;FC
+;411;610367;PaneInTheGlasses;缝合玻璃;Pane In The Glasses;
+shincolle;412;420381;shincolle;深海舰队收藏;ShinColle;
+;413;;;猫之手;猫の手 ～Hand of Cats～;
+;414;398402;UnicodeFontFixer;Unicode字体修复;UnicodeFontFixer;UFF
+lanteacraft;415;;LanteaCraft;星际之门;LanteaCraft;
+matteroverdrive-17-edition;416;802474;matteroverdrive,mo;超能物质;Matter Overdrive;MO
+tainted-magic;417;807351;TaintedMagic;污秽魔法;Tainted Magic;TM
+minetweaker3;418;304800;MineTweaker3;MineTweaker 3;;MT
+treecapitator;419;;Treecapitator;砍树;Tree Capitator;
+;42;120501;TooManyItems;TMI内置修改器;TooManyItems;TMI
+insta-house;420;;instahouse;即时建造;Insta House;
+;421;142597;MultiPageChest,multipagechest;多页箱子;Multi-Page Chest;MPC
+draconic-evolution;423;724610;draconicevolution;龙之进化/龙之研究;Draconic Evolution;DE
+galacticraft-add-on-more-planets;424;453885;MorePlanet,moreplanets;更多行星;More Planets;
+thermal-foundation;425;;ThermalFoundation,thermalfoundation,thermal;热力基本;Thermal Foundation;TF
+;426;463431;colourfulsurvivalmod;多姿多彩的生存;Colourful Survival Mod;
+;427;461268;;基岩破坏法杖;Bedrock Breaker;
+ding;428;;ding;界面进入提醒;Ding;
+ender-utilities;429;;enderutilities;末影设备;Ender Utilities;
+;43;83941;InputFix;中文输入修复补丁;Minecraft Language InputFix;
+magical-crops;430;440898;magicalcrops,magicalcropsarmour;魔法作物;Magical Crops;
+;431;;headcrumbs;更多头颅;Headcrumbs;
+ex-astris;432;;exastris;星辉生万物;Ex Astris;EA
+xelitez-frostcraft;433;;XEZFrostcraft;冰冻工艺;FrostCraft;
+;434;456093;HardcoreEnderExpansion;极限末地生存;Hardcore Ender Expansion;HEE
+;435;449666;MFQM;更多流沙;More Fun Quicksand Mod;MFQM
+fastcraft;436;343542;FastCraft;快速工艺;FastCraft;
+forgeautoshutdown-1-12-2;437;;forgeautoshutdown;Forge Auto Shutdown;;
+;438;120571;;行动助手;Movement Assistant;
+sao-ui;439;473756;saoui;刀剑神域UI;Sword Art Online UI;SAOUI
+;44;71955;;更多语言;MoLanguage;
+extratic;440;;ExtraTiC;匠魂扩展;Extra TiC;
+dimensional-pockets;441;;dimensionalPockets;四次元口袋;DimensionalPockets;DP
+;442;631110;modJ_JBRobot,modJ_JointBlock,modj_jointblock;机器方块;JointBlock;
+security-craft;443;774616;securitycraft;安全工艺;Security Craft;SC
+buildcraft-additions;444;;bcadditions;建筑扩充;Buildcraft Additions;
+;445;;be;基岩工艺;Bedrockium Mod;BE
+blocksteps;446;;blocksteps;Blocksteps;;
+thaumic-horizons;447;;ThaumicHorizons;神秘视界;Thaumic Horizons;TH
+modtweaker;448;;modtweaker2,modtweaker;ModTweaker;;MoT
+lootbags;449;720841;enhancedlootbags,lootbags;战利品;Loot Bags;LB
+custom-npcs;45;936521;customnpcs,AdvNPCs;自定义NPC;Custom Npcs;
+compact-lava-generator;450;522808;CLG;高级地热发电机;Compact Lava Generator;CLG
+project-zulu;451;;ProjectZulu|Core;祖鲁;Project Zulu;
+;452;180840;;许多生物;LotsOMobs;LOM
+chinacraft;453;518660;chinacraft;华夏文明;ChinaCraft;CC
+thaumcraft;454;776706;;神秘时代5;Thaumcraft 5;TC5
+;455;681514;gregtech;格雷科技6;GregTech 6;GT6
+;456;;;更好的开局;Better Beginnings;BB
+;457;;;工具怪物;Utility Mobs;
+hunger-overhaul;458;785119;hungeroverhaul;饥饿改革;Hunger Overhaul;HO
+jei;459;1175372;jei,JEI;JEI物品管理器;Just Enough Items;JEI
+millenaire;46;812961;millenaire;千年村庄;Millénaire;
+jeiaddons;460;;;JEI Addons;;
+magneticraft;461;;Magneticraft,magneticraft;磁场工艺;MagnetiCraft;MAGC
+chromaticraft;462;;ChromatiCraft;缤纷纪元;ChromatiCraft;ChC
+immersive-engineering;463;450097;ImmersiveEngineering,immersiveengineering;沉浸工程;Immersive Engineering;IE
+armourers-workshop;464;382319;armourersWorkshop,armourers_workshop,plushieWrapper;时装工坊;Armourer's Workshop;
+;465;320343;plo;植物矿石;Plants To Ores;
+slash;466;;;命令强化;Slash;
+;467;459404;etfuturum;把未来带回现实;Et Futurum;
+cooking-for-blockheads-fabric;468;545680;cookingforblockheads,cookingbook;懒人厨房;Cooking for Blockheads;CB
+;469;485184;nstd;不要饿死;No Starve To Death;
+clay-soldiers-mod;47;;claysoldiers;粘土士兵;Clay Soldiers Mod;
+psi;470;;psi,Psi;Psi;;
+good-nights-sleep;471;965322;good_nights_sleep,goodnightsleep;夜眠梦境/晚安的梦境;Good Night's Sleep;GNS
+binnies-mods;472;;;Binnie's Mods;;
+baubles;473;;Baubles,baubles;饰品栏;Baubles;
+;474;;;更多剑;MoreSwords;
+;475;;thaumicbases;神秘基础学;Thaumic Bases;TB
+essentialcraft-3;476;;essentialcraft;源质魔法3;EssentialCraft 3;EC3
+;477;417792;Wa;和风;和風;Wa
+hardcore-questing-mode;478;1101667;HardcoreQuesting,hardcorequesting;困难任务;Hardcore Questing Mode;HQM
+unidict;479;600649;unidict;矿辞统一;UniDict;UD
+mo-creatures;48;836997;mocreatures;更多生物;Mo' Creatures;MOC
+thermal-dynamics;480;;ThermalDynamics,thermaldynamics;热动力学;Thermal Dynamics;TD
+;481;;;动物学;Zoology;
+;482;871764;pmp,plantmegapack;植物世界;Plant Mega Pack;PMP
+thaumic-revelations;483;;trevelations;神秘启示录;Thaumic Revelations;
+;484;604292;;更多燃料;MoreFuel;
+;485;;warpbook;传送书;Warp Book;WB
+ex-compressum;486;676165;excompressum;压缩工具;Ex Compressum;
+simply-jetpacks;487;;simplyjetpacks;简易喷气背包;Simply Jetpacks;SJ
+blood-arsenal;488;958995;BloodArsenal,bloodarsenal;血液兵工厂;Blood Arsenal;
+sim-u-kraft;489;;ashjacksimukraftreloaded;模拟城市;Sim-U-Kraft;
+;49;291020;pixelmon;精灵宝可梦;Pixelmon;PM
+superheroes-unlimited;490;693397;;超级英雄无限;Superheroes Unlimited;SU
+oceancraft-mod;491;;Oceancraft;海洋世界;Oceancraft;
+;492;;;能源链接;BC-IC2 Crossover;
+;493;618763;AencEx,MoreEnchants;更多附魔;More Enchantments;
+;494;;WitchingGadgets,WitchingGadgetsCore;巫师宝具;Witching Gadgets;WG
+buildcraft-compat;496;;BuildCraft|Compat,buildcraftcompat;建筑兼容;Buildcraft Compat;
+extrabotany;497;596279;ExtraBotany,extrabotany;额外植物学;ExtraBotany;EXBOT
+botania-unofficial;498;;;植物魔法非官方版;Botania Unoffical;
+angry-pixel-the-betweenlands-mod;499;804242;thebetweenlands;交错次元/黑暗沼泽;The Betweenlands;BL/TBL
 forestry;5;708812;Forestry,forestry;林业;Forestry;FR
+extrabiomesxl;50;;ExtrabiomesXL,extrabiomesxl;更多生态群系;ExtraBiomesXL;EBXL
+;501;610780;;丹药笔记;PillNote;PN
+;502;;;TW-信息;TW-Info;TW-Info
+custom-stuff-3;503;;CustomStuff3;自定义物品3;Custom Stuff 3;CS3
+lockdown;504;;lockdown;地图生成锁定;Lockdown;
+avaritia;505;734399;Avaritia,avaritia;无尽贪婪;Avaritia;
+minecraft-flight-simulator;506;;mfs;飞行模拟;Minecraft Flight Simulator;MFS
+essential-thaumaturgy;507;;essenthaum;源质神秘学;Essential Thaumaturgy;
+;508;664279;abyssalcraft;深渊国度;AbyssalCraft;AC
+;509;440074;calculator;运算工艺;Calculator;CC
+;51;;gregtech;格雷科技4;GregTech 4;GT4
+sextiarysector2;510;;SextiarySector;Sextiary Sector 2;;SS2
+;511;713261;WarpDrive;曲率驱动;WarpDrive;WD
+futurepack;512;1102237;fp.api;飞向未来;Futurepack Mod;FP
+;513;;hbm;HBM的核科技;HBM's Nuclear Tech;NTM/HBM
+agricraft;514;1315462;AgriCraft,agricraft;农业工艺;AgriCraft;AC
+arcane-engineering;515;;arcane_engineering;奥法工程学;Arcane Engineering;
+immersive-integration;516;;immersiveintegration;Immersive Integration;;
+;517;;ae2stuff;AE2 Stuff;;
+;518;;MTRM;可视化合成表编辑器;MineTweaker RecipeMaker;MTRM
+;519;;thaumicdyes;神秘染料;Thaumic Dyes;
+;520;;gadomancy;魔像秘经;Gadomancy;
+inventory-pets;521;437983;inventorypets;背包宠物;Inventory Pets;
+levels;522;;levels;装备等级;Levels;
+keeping-inventory;523;592605;keepinginventory;Keeping Inventory;;
+reliquary-v1-3;525;;xreliquary;圣遗物;Reliquary Reincarnations (Reliquary) / Xeno's Reliquary;
+mo-bends;526;729115;mobends;更多弯曲;Mo' Bends;
+quark;527;1155355;quark,Quark;夸克;Quark;
+blood-magic;528;1425356;bloodmagic,BloodMagic;血魔法2;Blood Magic 2;BM2
+;529;1080271;divinerpg;神圣RPG;DivineRPG;DRPG
+harvest-festival;530;658968;harvestfestival;丰收物语;Harvest Festival;HF
+tough-as-nails;531;849264;toughasnails;意志坚定;Tough As Nails;TAN
+non-update;532;;non_update;不再有更新;Non Update;NU
+clayium;533;;clayium;粘土工业;Clayium;
+better-storage;534;;betterstorage;更好的储存;Better Storage;
+davincis-vessels;535;475292;davincisvessels;达芬奇之舟/达芬奇的船;Davincis Vessels;
+bspkrscore;536;430478;bspkrsCore;bspkrs核心;bspkrsCore;
+techguns;537;;Techguns,techguns_core;科技枪;Techguns;TG
+;538;;ironbackpacks;特殊背包;Iron Backpacks;
+;539;;openmodularturrets;开放式炮台;OpenModularTurrets;OMT
+;540;;technom;量子魔法;Technomancy;
+quantumflux;541;668576;quantumflux;量子通量;QuantumFlux;QF
+;542;;sniffer;方块探测;Block Sniffer;
+dragonapi;543;;;Dragon API;;
+electricraft;544;;ElectriCraft;电力工艺;ElectriCraft;EC
+;545;459723;candycraftmod;糖果世界;CandyCraft;
+;546;694067;ihl;IHL Tools & Machines;;IHL
+minefantasy2;547;;minefantasy2;我的幻想2;MineFantasy2;MF2
+;548;;;更高的世界;TallWorlds;TW
+rails-of-war;549;;;铁路战争;Rails of War;RoW
+tale-of-kingdoms;55;;taleofkingdoms;王国;Tale Of Kingdoms;
+actually-additions;550;841281;ActuallyAdditions,actuallyadditions;实用拓展;Actually Additions;AA
+galaxy-space-addon-for-galacticraft;551;857805;GalaxySpace,galaxyspace;星空;Galaxy Space;GS
+;552;720880;latiaocraft;辣条工艺;Latiao Craft;LTC
+;553;;TofuFactory;豆腐工厂重置版;Tofu Factory Reloaded;TFR
+;554;;;陨石工艺;MeteorCraft;
+iguanas-tinker-tweaks;555;425981;IguanaTweaksTConstruct;匠魂增强;Iguanas Tinker Tweaks;
+;556;;;箭矢视角;Arrow Cam Mod;ACM
+tea-the-story;557;562372;teastory;茶风·纪事;Tea the Story;TS
+techreborn;558;777062;techreborn,techreborn_compat;科技复兴;Tech Reborn;TR
+infusinbrewing;559;;InfusionBrewing;注魔酿造;Infusion Brewing;IB
+;56;;;守护精灵;familiars;
+jurassicraft;560;831791;jurassicraft;侏罗纪时代;JurassiCraft;JC
+;561;;eternalsingularity;永恒奇点;Eternal Singularity;ES
+codechicken-lib-1-8;562;;codechickenlib,ccl-entityhook,CodeChickenLib;CodeChicken Lib;;CCL
+codechickencore;563;;CodeChickenCore;鸡块核心;CodeChickenCore;CCC
+;564;;;自动化魔法2;Automagy 2;
+aobd-singularities;565;;aobdsingularities;AOBD Singularities;;
+;566;;universalsingularities;通用奇点;Universal Singularities;US
+;567;;academy-monster;超能力怪物;Academy Monster;AM
+sonar-core;568;;sonarcore;声呐核心;Sonar Core;
+armorstatushud-updated;569;138426;armorstatushud;耐久信息显示;ArmorStatusHUD;
+;570;;wanionlib;Wanion Lib;;
+;571;;llibrary;LLibrary;;
+;575;;gtextras;GTExtras;;
+;58;;;正版皮肤显示修正;AntiSteve;
+environmental-tech;583;644622;environmentaltech;环境科技;Environmental Tech;ET
+;585;710008;MagicCookie;魔法饼干;Magic Cookies;
+thaumic-potatoes;586;;shibeid;神秘土豆;Thaumic Potatoes;
+torcherino;587;788894;Torcherino,torcherino;加速火把;Torcherino;
+craftable-nether-star;588;;craftnstar;Craftable Nether Star +;;
+;589;387183;veinminer,VeinMinerModSupport;连锁采矿/矿脉矿工;Vein Miner;
+tfcraft;59;887732;terrafirmacraft;群峦传说;TerraFirmaCraft;TFC
+;590;;iridiummod;铱矿Mod;Iridium Mod;
+;591;;aobd;Another One Bites the Dust;;AOBD
+;592;;MCEF;Minecraft Chromium嵌入式框架;Minecraft Chromium Embedded Framework;MCEF
+mine-mine-no-mi;593;;mineminenomi;恶魔果实;Mine Mine no Mi;
+advanced-rocketry;594;671760;advancedRocketry,advancedrocketrycore,advancedrocketry,AdvancedRocketryCore;高级火箭;Advanced Rocketry;AR
+;595;1423958;mw;维克的现代战争;Vic's Modern Warfare Mod;VMW
+chance-cubes;596;;chancecubes;机会方块;Chance Cubes;
+gun-customization;597;;;Gun Customization;;
+endercore;598;;endercore;末影核心;EnderCore;
+brandons-core;599;;brandonscore;Brandon's Core;;
 railcraft;6;603270;Railcraft,railcraft;铁路;Railcraft;RC
+;60;;;灵魂碎片;Soul Shards;SS
+cofh-core;600;;CoFHCore,cofh_core,cofhcore;CoFH核心;CoFH Core;
+;601;63123;;状态信息显示;StatusEffectHUD;
+lambdalib;602;;LambdaLib,LambdaLib|Core,lambdalib2;LambdaLib;;
+;603;623471;Redstonic,redstonic;红石电子;Redstonic;
+;604;;libVulpes,libvulpes;Libvulpes;;
+;605;617588;yegamolchattels;伊加墨的财产;Ye Gamol Chattels;YGC
+ivtoolkit;606;;ivtoolkit;IvToolkit;;
+wolf-armor-and-storage;607;672655;wolfarmor;狼铠;Wolf Armor and Storage;
+better-records;608;;betterrecords;更好的播放器;Better Records;
+worldedit;609;1100779;worldedit;创世神;WorldEdit;WE
+;610;;;LiteLoader;;
+;611;;;单机创世神;WorldEdit Wrapper;
+worldeditcui;612;1013295;worldeditcui;WorldEditCUI;;
+ztones;613;;Ztones;Ztones;;
+;614;;ppapmod;笔菠萝苹果笔;Pen Pineapple Apple Pen Mod;PPAP
+dummycore;615;;DummyCore,fc-dummy;DummyCore;;
+extra-utilities;616;868981;extrautils2;更多实用设备2;Extra Utilities 2;ExU2
+;617;;OpenMods,OpenModsCore,openmodscore,openmods;开放式模组库;OpenModsLib;OML
+embers;618;;embers;余烬;Embers;
+neat;619;938958;neat;极简血量显示;Neat;
+binnies-mods;62;;ExtraBees,extrabees;更多蜜蜂;Extra Bees;EB
+mob-properties;620;;MobProperties,mob_properties;怪物属性;Mob Properties;MP
+ganys-surface;621;450171;;Gany的世界;Gany's Surface;
+;622;244871;;遗忘的火光;Amnesia Lights;AL
+ezstorage;623;;ezstorage;EZ存储;EZStorage;EZ
+;624;;ichunutil;iChunUtil;;
+intangible;625;;intangible;Intangible;;
+;626;522654;;灵魂森林;Soul Forest;
+forge-multipart-cbe;627;;ForgeMultipart,forgemultipartcbe,microblockcbe,minecraftmultipartcbe;CB Multipart/Forge Multipart CBE/ForgeMultipart;;
+enchiridion;629;;Enchiridion,Enchiridion2;Enchiridion;;
+portal-gun;63;777495;PortalGun,portalgun;传送枪;Portal Gun;
+stimmedcow-nomorerecipeconflict;630;705241;recipehandler;合成冲突消除;NoMoreRecipeConflict;
+;631;727609;tinker_io;工匠接口;Tinker I/O;
+woot;632;;woot,Woot;生物工厂;Woot;
+;633;578416;;滑稽纪元;Huaji Age;
+thermal-expansion;634;805200;thermalexpansion;热力膨胀5;Thermal Expansion 5;TE5
+realistic-terrain-generation;635;681294;RTG,rtg;真实地形生成;Realistic Terrain Generation;RTG
+;636;519229;mobrebirth;怪物重生;Mob Rebirth;
+diseasecraft;637;406682;DiseaseCraft;疾病;Disease Craft;
+zombie-infection;638;410512;ZombieInfection;僵尸感染;Zombie Infection;ZI
+astral-sorcery;639;;astralsorcery;星辉魔法;Astral Sorcery;AS
+simpleores;64;;simpleores;简单矿石;SimpleOres;
+neotech;640;;neotech;全新科技;NeoTech;NT
+apocalypse-mod;641;433738;Apocalypse;启示录;Apocalypse;
+;642;;bookshelfapi,bookshelf;Bookshelf API Library;;
+;643;294922;;以太;The Ether;
+movingworld;644;;MovingWorld;MovingWorld;;
+botania-garden-of-glass;645;541959;GardenOfGlass,gardenofglass;水晶花园;Garden of Glass;
+;646;;Tubestuff;RP增强;Tube Stuff;
+tiny-progressions;647;;tp;微型自动化;Tiny Progressions;
+thaumic-additions;648;;thaumadditions;神秘领域;Thaumic Additions: Reconstructed;
+baubles-stuff;649;620576;baublesstuff;更多首饰;Baubles Stuff;BS
+;650;690813;benway_knowledge;神秘奥义;Thaumaturgical Knowledge;TK
+advanced-thaumaturgy-2;651;;AdvancedThaumaturgy;高等神秘学;Advanced Thaumaturgy 2;AT2
+INpureCore;652;;inpure|core;INpureCore;;
+atomicstrykers-battle-towers;653;142832;battletowers;战斗高塔;AtomicStryker's Battle Towers;
+reborncore;654;;reborncore,reborncore-mcmultipart;重生核心;Reborn Core;
+;655;728591;stevescarts;史蒂夫矿车：重生;Steve's Carts Reborn;SCR
+;656;;ForgeRelocation;简单分类;Refined Relocation;
+gilded-games-util;657;;gilded-games-util;Gilded Games Util;;GGU
+dangerrpg;658;;dangerrpg;危险RPG;Danger RPG;
+malisisdoors;659;;malisisdoors;更多门;MalisisDoors;MD
+easycrafting;66;;;轻松合成;Easy Crafting;
+;660;;;YMC科技公司的录像室;[YMC.Inc]Video Studio Room;YMC-VSR
+;661;500121;jaffa;更多有趣的食物;Just Another Fun Food Addon;JAFFA
+thermal-smeltery;662;;ThermalSmeltery,thermalsmeltery;热力冶炼厂;Thermal Smeltery;
+;663;439135;torchLevers;火把拉杆;Torch Levers;
+malisiscore;664;;malisiscore;MalisisCore;;
+valkyrielib;665;;valkyrielib,universalmodifiers,valkyrie;ValkyrieLib;;
+waila-harvestability;666;608318;WailaHarvestability,wailaharvestability;Waila Harvestability;;
+;667;;examplemod;混合魔法;Mixed Magic;
+hwyla;668;;waila;Here's What You're Looking At;;Hwyla
+crafttweaker;669;769481;crafttweaker,ctgui,crafttweakerjei;CraftTweaker;;CrT
+thermal-expansion;67;;ThermalExpansion;热力膨胀3;Thermal Expansion 3;TE3
+;670;;plustic;匠魂扩充;PlusTiC;
+real-time-chat-translation-mod;671;;translationmod;实时聊天翻译;Real Time Chat Translation Mod;RTCT
+;672;230546;customsteve;自定义史蒂夫;CustomSteve;CS
+practical-logistics-2;673;;practicallogistics2;实用物流监控2;Practical Logistics 2;PL2
+;674;;;高级能源;EnergyAdditions;
+advanced-generators;675;;advgenerators;高级发电机;Advanced Generators;ADVG
+bdlib;676;;bdlib;BDLib;;
+;677;350131;FLabsBF;更好的熔炉;Better furnace;
+;678;;pressure;压力管道;Pressure Pipes;PP
+onlinepictureframe;679;;opframe;在线相框显示;OnlinePictureFrame;
+;68;;;费如罗的枪械;Ferullo's Guns;
+super-circuit-maker;680;;rscircuits,supercircuitmaker;超级电路;Super Circuit Maker;SCM
+;681;;switchbow;Switch-Bow;;
+minecolonies;682;1169256;minecolonies;模拟殖民地;Minecolonies;
+tinkers-construct;683;661201;TConstruct,tconstruct;匠魂2;Tinkers' Construct 2;TiC2
+mcjtylib;684;;mcjtylib_ng,mcjtylib;McJtyLib;;
+mcmultipart;685;;mcmultipart;MCMultiPart;;MCMP
+aroma1997s-dimensional-world;686;;aroma1997sdimension,Aroma1997sDimension;Aroma1997的维度世界;Aroma1997's Dimensional World;
+project-73926;687;;;超级合成框架;Super Crafting Frame;SCF
+;688;805606;akashictome,AkashicTome;阿卡什宝典;Akashic Tome;
+;689;;morphtool,Morphtool;变形工具;Morph-o-Tool;
+;69;;compactkineticgenerators;压缩风电阵列;Compact Windmills;
+decocraft;690;;props;装饰工艺;Decocraft;
+refined-storage;691;612538;refinedstorage,refinedreborn;精致存储;Refined Storage;RS
+deep-resonance;692;;deepresonance;深度共振;Deep Resonance;
+;693;;GollumCoreLib;Gollum Core Lib;;
+;694;;MorePistons;更多活塞;More Pistons;
+;695;;itemsaver;物品存储器;ItemSaver;
+;696;;;时之沙;Clockwork Phase;
+;697;695905;;镐子养成;Growable Pickaxe;GP
+autoreglib;698;;autoreglib,AutoRegLib;AutoRegLib;;ARL
+roots;699;;crafttweakersync,roots;根源魔法;Roots;
 minefactory-reloaded;7;693826;MineFactoryReloaded|CompatVanilla,MineFactoryReloaded|CompatAppliedEnergistics,MineFactoryReloaded|CompatForgeMicroblock,MineFactoryReloaded|CompatThaumcraft,MineFactoryReloaded|CompatThermalExpansion,MineFactoryReloaded|CompatIC2,MineFactoryReloaded|CompatForestry,MineFactoryReloaded|CompatMagicalCrops,MineFactoryReloaded|CompatBuildCraft,MineFactoryReloaded|CompatRailcraft,MineFactoryReloaded,MineFactoryReloaded|CompatAtum,MineFactoryReloaded|CompatBackTools,MineFactoryReloaded|CompatChococraft,MineFactoryReloaded|CompatExtraBiomes,MineFactoryReloaded|CompatForestryPre,MineFactoryReloaded|CompatMystcraft,MineFactoryReloaded|CompatPams,MineFactoryReloaded|CompatRP2,MineFactoryReloaded|CompatSufficientBiomes,minefactoryreloaded;我的工厂重置版;MineFactory Reloaded;MFR
+;70;90898;manasys;元素魔法;Manasys;
+guide-api;700;;guideapi;指南;Guide-Api;
+fraghappy-reborn;701;;fraghappy;FragHappy Reborn;;
+genetics-reborn;702;;geneticsreborn;基因重生;Genetics Reborn;
+router-reborn;704;;routerreborn;路由重生;Router Reborn;
+;705;614246;neieasysearch;NEI中文快捷搜索;NEI Easy Search;
+;706;;coroutil,CoroAI,CoroPets;CoroUtil;;
+;707;;vanillamagic2;原生魔法;Vanilla Magic;
+;708;;;御灵;Taoism;
+;709;;;源质魔法4非官方版;EssentialCraft 4 Unofficial;
+;71;473694;ComputerCraft;电脑;Computer Craft;CC
+celestial-craft;710;;celestialcraft;天体;Celestial Craft;
+;711;;;失落神秘;Pengu's Lost Thaumaturgy;
+compact-machines;712;;compactmachines3,cm2,compactmachines;更多空间/压缩空间;Compact Machines;CM
+;713;466581;uc;实用煤炭;UsefulCoals;UfC
+;714;631637;exnihiloomnia;无中生有-世间万物;Ex Nihilo Omnia;
+last-sword-you-will-ever-need-mo;715;;theonlychaosmodforyou;最终之剑;The Last Sword You Will Ever Need Mod;
+the-last-sword-you-will-ever-need-reboot;716;;tlsywen;最终之剑：重生;The Last Sword You Will Ever Need Reboot;
+ftb-library-legacy-forge;718;;ftblib,FTBL,ftbl;FTB Library（旧版）;FTB Library (Forge) (Legacy);FTBL
+;719;;;库存扫描;InventoryScan;IS
+;72;;SpecialArmor;特殊防具;Special Armor;
+;720;;;哥斯拉;Godzilla;
+thaumic-potatoes-2;721;;thaumicpotatoes;神秘土豆2;Thaumic Potatoes 2;TP2
+extraplanets;722;799074;extraplanets;额外行星;Extra Planets;EP
+xtracraft-mod;724;;xtracraftmod;X工艺;XtraCraft Mod;XC
+;725;;DefenseTech;防御科技;DefenseTech;DT
+formivore-generators-walled-city-great-wall-ca;726;526347;CARuins,GreatWallMod,WalledCityMod;城墙城市生成;Cellular Automata Generator/Great Wall Mod/Walled City Generator;
+icbm-classic;727;;icbmclassic;洲际导弹经典版;ICBM - Classic;
+;728;;;Voltz Engine;;VE
+blocklings;729;831446;blocklings;方块酱;Blocklings;
+inventory-tweaks;73;877466;inventorytweaks;R键整理;Inventory Tweaks;
+;730;;ThaumicMachina;神秘力学;Thaumic Machina;
+;731;;;巫媒;Shamanry;
+;732;;ThaumicDarkness;黑暗神秘学;Thaumic Darkness;TD
+;733;;;自然魔法;Magia Naturalis;
+sbm-wooden-shears;734;;woodenshears;木剪刀;Wooden Shears;
+;735;;;神秘史记;Thaumic History;
+;736;;;魔法学院;Schools of Magic;
+;737;;;天境要素扫描;Aether Aspects;
+arcane-arteries;738;;arcanearteries;奥法献祭学;Arcane Arteries;
+thaumic-palmistry;739;;thaumicpalmistry;Thaumic Palmistry;;
+;74;;;更多弓;More Bows;
+one-click-crafting;740;943364;oneclickcrafting;一键合成;One click crafting;OCC
+essential-thaumaturgy-unofficial;741;;;源质神秘学（非官方版）;Essential Thaumaturgy Unofficial;
+wireless-crafting-terminal;742;;wct,ae2wct;无线合成终端;Wireless Crafting Terminal;WCT
+;743;;wailaplugins;Waila插件;Waila Plugins;WP
+appleskin;744;1141428;appleskin;苹果皮;AppleSkin;AS
+tcbotaniaexoflame;745;;TCBotaniaExoflame;奥术投射;TCBotaniaExoflame;TCBE
+;746;;;奥法置换;Thaumic Equivalence;
+thaumcraft-research-helper;747;;;神秘研究小助手;Thaumcraft Research Helper;
+thaumic-upholstry;748;;;神秘装饰;Thaumic Upholstry;
+thaumic-expansion;749;;;神秘膨胀;Thaumic Expansion;
+minecraft-minions;75;;minions;召唤奴仆;Minecraft Minions;
+nodal-mechanics;750;;NodalMechanics;节点力学;Nodal Mechanics;NM
+transmute-liquids-addon-for-thaumcraft-4;751;;;液体嬗变;Transmute Liquids;
+thaumores;752;;;奥能矿物;ThaumOres;TO
+notenoughthaumcrafttabs;753;;;无限神秘标签页;Not Enough Thaumcraft Tabs;NETCT
+natures-compass;754;977694;naturescompass;自然罗盘/生物群系指南针;Nature's Compass;
+warp-theory;755;;WarpTheory;神秘扭曲学;Warp Theory;
+hammer-lib;756;;hammercore,hammerlib;锤子核心;Hammer Core/Hammer Lib;
+;757;;MiningTools;采掘工具;Mining Tools;
+;758;;;热力铸造室;Thermal Casting;
+;759;;;热力冶炼厂重置版;Thermal Smeltery Redux;
+ender-storage;76;870812;enderstorage;末影存储;Ender Storage;
+brcore;760;;BRCore;BRCore;;
+industrial-expansion-te-addon;761;;industrialexpansion;工业扩充（TE附属）;Industrial Expansion [TE Addon];
+;762;545624;gtveinlocator,detravscannermod;格雷科技矿脉定位器;GTVeinLocator;
+;763;;gtneioreplugin;格雷矿物NEI插件;GTNEIOrePlugin;GTNOP
+spmodapi;764;;spmodapi;SpmodAPI;;
+quantum-pack;765;;quantumpack;量子工具包;Quantum Pack;
+;766;;NetherOres;下界矿石;NetherOres;
+;767;;tesla;特斯拉;TESLA;TESLA
+the-elysium;769;;elysium;极乐世界;The Elysium;
+;77;521541;DQMV;勇者斗恶龙;Dragon Quest Monster;DQM
+yabba;772;;yabba;YABBA;;
+useful-nullifiers;773;;usefulnullifiers;实用销毁器;Useful Nullifiers;
+xtones;774;;xtones;Xtones;;
+;775;;xnet;XNet;;
+wireless-crafting-grid;776;;wcg;无线合成网络;Wireless Crafting Grid;WCG
+top-addons;778;;topaddons;TOP Addons;;TOPA
+;779;;torchmaster;火炬大师;Torchmaster;
+;78;;;内置音乐播放器;MCMP-1;
+ZeroCore;780;;zerocore;ZeroCore;;
+sleeping-bag;781;;SleepingBag;睡袋;Sleeping Bag;
+the-one-probe;782;1155343;theoneprobe;检测器;The One Probe;TOP
+simply-jetpacks-2;784;;simplyjetpacks;简易喷气背包2;Simply Jetpacks 2;SJ2
+;785;;snad;子沙;Snad;
+storage-drawers-extras;786;;storagedrawersextra;Storage Drawers Extras;;
+;787;;solarflux;日光通量：重制版;Solar Flux Reborn;SFR
+simple-void-world;788;1089311;simplevoidworld;简单虚空世界;Simple Void World;SVW
+shetiphiancore-fabric;789;;shetiphiancore;ShetiPhianCore;;
+;790;;shadowmc;ShadowMC;;
+scannable;791;;scannable;扫描器;Scannable;
+rebornstorage;792;;rebornstorage;存储重置;Reborn Storage;
+quantumstorage;793;;quantumstorage;量子存储;QuantumStorage;
+;794;;p455w0rdslib;p455w0rd's Library;;
+mtlib;795;;mtlib;MTLib;;
+;796;;;光滑的地形/平滑地形;No Cubes Mod;
+open-glider;797;;openglider;滑翔翼;Open Glider;
+mputils;798;;mputils;MPUtils;;
+shadowfacts-forgelin;799;;forgelin;Shadowfacts' Forgelin;;
+forge-nbtedit-for-1-7-10;80;800848;NBTEdit,nbtedit;内置NBT编辑器;In-Game NBTEdit;IGN
+eleccore;800;;eleccore;ElecCore | Rendering Library;;
+;801;;infinitylib;Infinity Lib;;
+;802;;darkutils;Dark Utilities;;
+flux-networks;803;;fluxnetworks;通量网络;Flux Networks;FN
+flat-colored-blocks;804;;flatcoloredblocks;平滑色块;Flat Colored Blocks;FCB
+jei-bees;805;;jeibees;JEI Bees;;
+chisels-bits-for-fabric;806;;chiselsandbits;雕凿工艺;Chisels & Bits;C&B
+architecturecraft;807;;ArchitectureCraft;建筑师工艺;Architecture Craft;
+chameleon;808;;chameleon,Chameleon;变色龙;Chameleon;
+;809;;MrTJPCoreMod,mrtjpcore;MrTJPCore;;
+extra-utilities;81;377817;ExtraUtilities;更多实用设备;Extra Utilities;ExU
+cyclops-core;810;;cyclopscore;Cyclops Core;;
+netherportalfix;811;1004332;netherportalfix;下界传送门修正;NetherPortalFix;
+rftools-dimensions;812;;rftoolsdim;RF工具：维度;RFTools Dimensions;
+signals;813;;signals,Signals;信号;Signals;
+extreme-reactors;814;841782;bigreactors;极限反应堆;Extreme Reactors;ER
+;815;;etlunar;ET：月光发电;Environmental Lunar Tech;
+angel-ring-to-bauble;816;;flyringbaublemod;可装备的天使指环;Angel Ring To Bauble;
+mob-grinding-utils;817;;mob_grinding_utils;刷怪塔实用设备;Mob Grinding Utils;
+rftools-control;818;;rftoolscontrol;RF工具：控制;RFTools Control;
+immersive-petroleum;819;;immersivepetroleum;沉浸原油;Immersive Petroleum;
+more-shearables;820;;shear;更多的剪刀用途;More Shearables;
+gregtech-gt-gtplusplus;821;;miscutils,GT++_Preloader;Gregtech++;;GT++
+;822;;GTTweaker;GTTweaker;;
+;823;;TGregworks;Tinkers' Gregworks;;
+;824;;galacticgreg;GalacticGreg;;
+;825;;tectech;TecTech;;
+yam-core;826;;YAMCore;YAMCore;;
+;828;;;自然灾害;NaturalDisasters;ND
+;829;;teletoro;远程传送;TeleToro;
+;830;244572;touhou_alice_core,touhou_alice_dolls,touhou_alice_extras;爱丽丝人偶;Alice's Doll;
+re-zero-kara-hajimeru-isekai-seikatsu;831;;ReZero;RE:从零开始的异世界;Re: Zero kara hajimeru isekai seikatsu;Re0
+minewatch;832;730508;minewatch;Minewatch;;
+thaumcraft-inventory-scanning;833;;tcinventoryscan;神秘时代物品栏扫描;Thaumcraft Inventory Scanning;TCIS
+cyclic;834;648189;cyclicmagic,cyclic;循环;Cyclic;
+redstoneplusplus;836;;redstoneplusplus;红石++;Redstone++;
+ctm;837;;ctm;连接纹理;ConnectedTexturesMod;CTM
+;838;;simulatednights;夜晚模拟;Simulated Nights;
+ftb-utilities;839;;FTBU,ftbutilities,ftbu;FTB 实用工具;FTB Utilities;FTBU
+;84;126486;;立体机动装置;Hookshot;
+just-enough-characters;840;639271;jecharacters,je_characters;通用拼音搜索;Just Enough Characters;JECh
+redstone-flux;842;;redstoneflux;Redstone Flux API;;RFAPI
+;843;;cofhworld;CoFH World;;
+ancient-warfare-2;844;;AncientWarfareAutomation,AncientWarfare,ancientwarfare,ancientwarfarestructure,ancientwarfarevehicle,ancientwarfarenpc,ancientwarfareautomation;古代战争2;Ancient Warfare2;AW2
+integrated-dynamics;845;;integrateddynamics,integrateddynamicscompat;动态联合/集成动力;Integrated Dynamics;ID
+common-capabilities;846;;commoncapabilities;Common Capabilities;;
+jingames-dragon-block-c;847;715486;jinryuudragonblockc;龙珠C;Dragon Block C;DBC
+tan-campfire-spit;848;;tanspit;意志坚定-篝火烤架;TAN Campfire Spit;
+super-solar-panels;849;699953;supersolarpanel;超级太阳能发电机;Super Solar Panels;SSP
+rotarycraft;85;;RotaryCraft;旋转工艺;RotaryCraft;RoC
+ngtlib;850;;ngtlib;NGTLib;;
+geomastery;851;;geomastery;征服大地;Geomastery;
+afsu-mod;852;;AFSU;AFSU;;
+;853;682061;NyankoMod;猫;Nyanko;
+;854;;LightningCraft,lightningcraft;雷电工艺;LightningCraft;LC
+just-enough-resources-jer;855;;jeresources;Just Enough Resources;;JER
+morpheus;856;;Morpheus,morpheus;Morpheus;;
+wall-jump;857;;walljump;飞檐走壁;Wall Jump;
+;858;359511;CBMReborn;凝结成块;Condensed Block Mod Reborn;
+refined-avaritia;859;;refined_avaritia;Refined Avaritia;;
+;86;132684;;万用工具;OmniTools;
+weather-storms-tornadoes;860;1409472;weather2;局部气候&风暴;Weather, Storms & Tornadoes;
+;861;;newthings;New Things;;
+;862;;survivalist;生存主义;Survivalist;
+mystic-divination;863;;;秘契占星术;Mystic Divination;
+;864;;;CoFH Lib;;
+tabula-rasa;865;;TabulaRasa;Tabula Rasa;;
+;866;;;CoFHTweaks;;
+ender-io-zoo;867;;EnderZoo;末影动物园;Ender IO Zoo/Ender Zoo;
+simple-usage-log;868;;simpleusagelog;简易日志;Simple Usage Log;SUL
+omnis-core;869;;;Omnis Core;;
+applied-energistics-1;87;378640;AppliedEnergistics;应用能源;Applied Energistics;AE
+;870;;;自动路径;Auto Paths;
+react;871;;react;React;;
+;872;;sharedresourcepacks;共享资源包;Shared Resource Packs;SRP
+i-know-what-im-doing;873;;ikwid;我知道我在干什么;I Know What I'm Doing;IKWID
+;874;;leatherworks;皮革加工厂;Leather Works;
+;875;618353;cyberware;机械改造;Cyberware;
+thermal-cultivation;876;;thermalcultivation,thermal_cultivation;热力农业;Thermal Cultivation;
+;877;831822;betterbuilderswands;更好的建筑之杖;Better Builder's Wands;
+;878;;jaopca;Just A Ore Processing Compatibility Attempt;;JAOPCA
+chickens;879;570570;chickens;更多鸡;Chickens;
+;88;;;奥法卷轴;Arcane Scroll;
+;880;304696;;悲惨世界2;TragicMC2;TMC2
+mobdrip;881;;mobdrip;MobDrip;;
+;882;697804;custommc;自定义MC;CustomMc;
+customskinloader;883;269807;customskinloader;万用皮肤补丁;CustomSkinLoader;CSL
+;884;562144;saltmod;盐;SaltyMod;
+immersive-tech;885;724918;immersivetech;沉浸科技;Immersive Technology;
+;886;526067;DQMIIINext;勇者斗恶龙R;Dragon Quest Respect;DQR
+funky-locomotion;887;;funkylocomotion;Funky Locomotion;;FL
+;888;;compatlayer;版本兼容;CompatLayer;
+;889;;wopper;木制漏斗;Wopper;
+;89;;HarkenScythe_Core;死神之镰;Harken Scythes;
+;890;;;食用强化;GorgeCore;
+chineseworkshop;891;639428;chineseworkshop;中式工坊;Chinese Workshop;CW
+;892;;modularrouters;模块化路由器;Modular Routers;
+darkcore;893;;darkcore;暗黑核心;Darkcore;
+;894;;;时间和空间的相对维度;TARDIS MOD;
+;895;362797;ProjectBlue;蓝石计划;Project Blue;
+;896;;herowatch;守望先锋;HeroWatch;
+another-one-bites-the-dust-berry-bushes;897;;aobdbb;AOBD Berry Bushes;Another One Bites the Dust: Berry Bushes;AOBDBB
+gokistats;898;805910;gokistats,gokiStats;天赋技能树;GokiStats;
+;899;691969;scraft;SC科学创造;Scientific Craft;SC
 ;9;;mod_EE;等价交换2;Equivalent Exchange 2;EE2
+;90;;;盾与巨剑;Asgard Shield;
+tropicraft;900;;tropicraft;热带世界;Tropicraft;
+;901;709216;DanmakuCraft;弹幕工艺;DanmakuCraft;
+;902;;exastrisrebirth;星辉生万物·重制;Ex Astris Rebirth;
+;903;;sumsang;亖圼;Sumsang;
+moblocks;904;;;Mo' Blocks;;
+;905;;;蠕动意面;CreepyPasta;
+grue;906;;grue;Grue;;
+;907;;;亡兄;The Dead Brother;
+googlyeyes;908;;googlyeyes;金鱼眼;GooglyEyes;
+lycanites-mobs;909;980282;lycanitesmobs,swampmobs,saltwatermobs,plainsmobs,mountainmobs,junglemobs,infernomobs,freshwatermobs,forestmobs,desertmobs;恐怖生物;Lycanites Mobs;LM
+;91;;;锁链;CHAINZ: THE -MISSING- IRON LINK;
+back-to-eco;910;;backtoeco;生态回归;Back to Eco;
+;911;;wow;魔兽世界;World Of Warcraft;
+the-witcher-adventure;912;;;猎魔人;The Witcher Adventure;
+;913;;;华丽战斧;Fancy Battleaxes;
+zora-no-densha;914;1085883;zoranodensha;Zora的电车;Zora no Densha;
+;915;300785;roguelike;冒险地牢;Roguelike Dungeons;
+first-aid;916;850687;firstaid;急救/医疗护理;First Aid;
+;917;772983;bonfires;篝火;Bonfires;
+;918;;immcraft;沉浸工艺;Immersive Craft;
+aroma1997core;919;;Aroma1997Core,Aroma1997CoreHelper,aroma1997core;Aroma1997Core;;
+Universal-Electricity;92;405261;;通用电力;Universal Electricity;UE
+tatw;920;;tatw;TATW;;
+hostile-mobs-and-girls;921;;hmag;敌对生物和女孩们;Hostile Mobs and Girls;HMaG
+better-hud;922;457884;hud,betterhud;更好的HUD;Better HUD;
+custom-stuff-4;923;;;自定义物品4;Custom Stuff 4;CS4
+powered-thingies;924;;teslathingies;特斯拉科技;Tesla Powered Thingies;TPT
+;925;624834;xaerobetterpvp;更好的PVP;Better PVP;
+mcmusicplayer#t1:description;926;;;MCMusic player;;
+obsidian-suite;927;;obsidian_api,obsidian_animator;Obsidian Animation Suite;;OAS
+;928;;wol;Lua魔导师;Wizards of Lua;WoL
+;93;;;比狼好;Better Than Wolves;BTW
+vampirism-become-a-vampire;930;982006;vampirism;吸血鬼/血族传说;Vampirism;
+;931;;plants2;植物大战僵尸;Plants V.S. Zombies;PVZ
+itemphysic-lite;932;638455;itemphysic;物品物理掉落;ItemPhysic;
+minenautica;933;;Minenautica;Minenautica;;
+improved-extraction;934;;improvedextraction;矿物获取改进;Improved Extraction;
+ecology-mod;935;;ecomod;生态;Ecology Mod;
+cakeisalie-mod;936;;CakeIsALie;蛋糕是个谎言;CakeIsALie;
+ex-nihilo-adscensio;937;;;无中生有:Adscensio;Ex Nihilo Adscensio;
+bookshelf;938;;bookshelf,bookshelfapi;Bookshelf;;
+;939;732164;mooncakecraft;月饼工坊;Mooncake Craft;
+the-aether;94;797941;aether,aether_legacy;天境;The Aether;AE
+;940;938101;randomthings,RandomThings;随意作品;Random Things;RT
+;941;613218;;SCP基金会2;SCP Craft 2;SCPC2
+netherex;942;918772;nex,netherex;下界拓展;NetherEX;NEX
+engender-mod;943;796593;ageofminecraft,ageofabyssalcraft,ageofchaos,ageofmutants;召唤师;Engender - The Age of Minecraft;
+better-questing;944;695339;betterquesting;更好的任务;Better Questing;BQ
+;945;606249;examplemod;石头工艺;Stone craft;
+;946;732786;;不要杀戮;Don't Slay;
+;947;;ctmortar;CT Mortar;;
+ct-watercan;948;;watercan;CT Watercan;;
+;949;1073074;totemic;图腾;Totemic;
+;95;;;电脑外设;MiscPeripherals;
+grimoire-of-alice;950;;grimoireofalice;爱丽丝的魔法书;Grimoire of Alice;GoA
+journey-to-gensokyo;951;;journeytogensokyo;幻想乡之旅;Journey to Gensokyo;JTG
+danmakucore;952;;danmakucore;弹幕核心;DanmakuCore;
+;953;;aov;复仇天使;Angel of Vengeance;AoV
+tammodized;954;;tammodized;TamModized;;
+;955;727225;exnihilocreatio;无中生有：创世;Ex Nihilo: Creatio;ExNC
+thaumcraft;956;776706;thaumcraft;神秘时代6;Thaumcraft 6;TC6
+colossal-chests;957;;colossalchests;巨型箱子;Colossal Chests;
+auto-pickup;958;;autopickup;自动拾取;Auto Pickup;
+all-u-want;959;;;背包编辑器;All-U-Want;
+;96;216074;AdvancedReactors;高级核电;Advanced Reactors;AR
+;960;;PotionExtensionCore,potioncore;药水核心;Potion Core;
+solar-expansion;961;541525;SolarExpansion;Solar Expansion;;
+blue-power;962;501014;bluepower;蓝石力量;Blue power;
+redstone-armory;963;600195;RArm;红石军械库;Redstone Armory;RArm
+qmunitylib;964;;qmunitylib;QmunityLib;;
+;965;;questforbluename;Quest Name For Blue;;
+the-last-smith;966;710736;lastsmith;最后的太刀匠人;The Last Smith;TLS
+mineamp;967;;;我的音乐;MineAmp;
+quiverbow;968;283240;quiverchevsky;Quiver Bow;;
+cookiecore;969;;cookiecore;Cookie Core;;
+assassincraft-assassins-creed-mod;97;334358;AssassinCraft;刺客信条;AssassinCraft;
+farseek;970;;farseek;Farseek;;
+meecreeps;971;;meecreeps;使命必达先生;MeeCreeps;
+streams;972;;streams;溪流;Streams;
+;973;;;音符盒显示器;Note Block Display;
+;974;;blockcraftery;方块工匠;Blockcraftery;
+bedrockores;975;776822;bedrockores;基岩矿簇;Bedrock Ores;
+chat-bubbles;976;;chatbubbles;聊天泡泡;Chat Bubbles;
+refined-storage-addons;977;;refinedstorageaddons;精致存储附属;Refined Storage Addons;
+;978;678442;foamfix,foamfixcore;泡沫修复;FoamFix;
+industrial-foregoing;979;774112;industrialforegoing;工业先锋;Industrial Foregoing;IF
+;98;;RWG;更真实的地图生成;Realistic World Gen;RWG
+;980;;exparmory;扩展装备;Expanded Armory;EA
+voxelmap;981;473187;VolexMap,voxelmap;体素地图;VoxelMap;
+;982;;rwbyCraft;四色战记;RWBY Craft;RWBYC
+;983;;grim3212core;Grim3212Core;;
+mowzies-mobs;984;;mowziesmobs;Mowzie的生物;Mowzie's Mobs;MMobs
+;985;;ThaumcraftMobAspects;Thaumcraft Mob Aspects;;
+magical-psi;986;;magipsi;Magical Psi;;
+;987;;Starcraft;星际争霸2;StarCraft II in MineCraft;SCMC
+covens-reborn;988;;covens;Covens Reborn;;
+grappling-hook-mod;989;;grapplemod;抓钩;Grappling Hook Mod;
+custom-recipes;99;;;自定义合成表;Custom Recipes;
+tabbychat-2;990;;tabbychat;TabbyChat 2;;
+;991;771988;MineCameraDummy,minecamera;摄影工艺;MineCamera;
+yoyos;992;932192;yoyos;悠悠球;Yoyos;
+;993;;cd4017be_lib;CD4017BE Library;;
+;994;;iberia;Iberia;;
+reforged;995;774739;reforged;重铸;Reforged;
+cavern;996;775036;cavern;洞穴;Cavern;
+block-drops-jei-addon;997;;blockdrops;Block Drops;;
+iron-tanks;998;776893;irontank,irontanks;更多储罐;Iron Tanks;
+colorutility#t1:description;999;;ColorUtility;颜色代码;ColorUtility;
