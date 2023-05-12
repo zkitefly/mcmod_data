@@ -79,7 +79,7 @@ for i, file in enumerate(file_list):
             data_multi_id_name = soup.find(attrs={'data-multi-id': 'name'})
             ZNAME = None if data_multi_id_name is None else data_multi_id_name['value']
 
-CFID = None
+            CFID = None
             for script in soup.find_all('script'):
                 if script.string and '.val("https://www.curseforge.com/minecraft/mc-mods/' in script.string:
                     CFID = script.string.split('/minecraft/mc-mods/')[1].split('"')[0]
