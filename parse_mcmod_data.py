@@ -32,10 +32,32 @@ with open('data.csv', 'w', encoding='utf-8') as f:
             elif link['type'] == 'mcbbs':
                 mcbbs_id = link['url'].split('/')[-1].split('-')[1]
 
+        # 筛选 curseforge_id 的内容，删除包含 "#" 的部分
+        if "#" in curseforge_id:
+            curseforge_id = curseforge_id[:curseforge_id.index("#")]
+
+        # 筛选 curseforge_id 的内容，删除包含 "?" 的部分
+        if "?" in curseforge_id:
+            curseforge_id = curseforge_id[:curseforge_id.index("?")]
+
+        # 筛选 mcbbs_id 的内容，删除包含 "?" 的部分
+        if "&" in curseforge_id:
+            mcbbs_id = mcbbs_id[:mcbbs_id.index("&")]
+
         # 获取模组 ID 信息
         mod_ids = ','.join(mod['modid']['list'])
 
         # 写入 CSV 文件
         writer.writerow([curseforge_id, mcmod_id, mcbbs_id, mod_ids, chinese_name, sub_name, abbr])
+
+# 检查并删除重复行（上述代码块会先读取 data.csv 文件的所有行，然后逐行检查是否已经出现过。如果已经出现过，就不再写入文件中，从而实现删除重复行的效果。）
+lines_seen = set()  # 用于存储已经出现过的行
+with open('data.csv', 'r', encoding='utf-8') as f:
+    lines = f.readlines()
+with open('data.csv', 'w', encoding='utf-8') as f:
+    for line in lines:
+        if line not in lines_seen:  # 如果这一行没有出现过
+            f.write(line)  # 写入文件
+            lines_seen.add(line)  # 将这一行加入已出现的行中
 
 print('成功！！！')
