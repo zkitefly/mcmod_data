@@ -171,98 +171,6 @@ for i, file in enumerate(file_list):
                     CFID = script.string.split('/minecraft/customization/')[1].split('"')[0]
                 if script.string and '.val("http://curseforge.com/minecraft/configuration/' in script.string:
                     CFID = script.string.split('/minecraft/configuration/')[1].split('"')[0]
-
-
-                if script.string and '.val("https://www.curseforge.com/minecraft/mc-mods/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-mods/')[1].split('/')[0]
-                if script.string and '.val("https://minecraft.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/mc-mods/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-mods/')[1].split('/')[0]
-                if script.string and '.val("http://minecraft.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-
-                if script.string and '.val("https://www.curseforge.com/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/legacy/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/legacy/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/projects/' in script.string:
-                    CFID = script.string.split('/minecraft/projects/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/modpacks/' in script.string:
-                    CFID = script.string.split('/minecraft/modpacks/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/mc-addons/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-addons/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("https://www.curseforge.com/minecraft/configuration/' in script.string:
-                    CFID = script.string.split('/minecraft/configuration/')[1].split('/')[0]
-
-                if script.string and '.val("http://www.curseforge.com/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/legacy/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/legacy/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/projects/' in script.string:
-                    CFID = script.string.split('/minecraft/projects/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/modpacks/' in script.string:
-                    CFID = script.string.split('/minecraft/modpacks/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/mc-addons/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-addons/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("http://www.curseforge.com/minecraft/configuration/' in script.string:
-                    CFID = script.string.split('/minecraft/configuration/')[1].split('/')[0]
-
-                if script.string and '.val("https://curseforge.com/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/legacy/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/legacy/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/minecraft/projects/' in script.string:
-                    CFID = script.string.split('/minecraft/projects/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/minecraft/modpacks/' in script.string:
-                    CFID = script.string.split('/minecraft/modpacks/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/minecraft/mc-addons/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-addons/')[1].split('/')[0]
-                if script.string and '.val("https://curseforge.com/minecraft/customization/configuration/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/configuration/')[1].split('/')[0]
-
-                if script.string and '.val("http://curseforge.com/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/legacy/mc-mods/minecraft/' in script.string:
-                    CFID = script.string.split('/legacy/mc-mods/minecraft/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/projects/' in script.string:
-                    CFID = script.string.split('/minecraft/projects/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/modpacks/' in script.string:
-                    CFID = script.string.split('/minecraft/modpacks/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/projects/' in script.string:
-                    CFID = script.string.split('/projects/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/mc-addons/' in script.string:
-                    CFID = script.string.split('/minecraft/mc-addons/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/customization/' in script.string:
-                    CFID = script.string.split('/minecraft/customization/')[1].split('/')[0]
-                if script.string and '.val("http://curseforge.com/minecraft/configuration/' in script.string:
-                    CFID = script.string.split('/minecraft/configuration/')[1].split('/')[0]
                     break
 
             data_multi_id_ename = soup.find(attrs={'data-multi-id': 'ename'})
@@ -273,6 +181,10 @@ for i, file in enumerate(file_list):
 
             links_list = []
             if CFID is not None:
+                if '/files' in CFID:
+                    CFID = CFID[:CFID.index("/files")]
+                if '?' in CFID:
+                    CFID = CFID[:CFID.index("?")]
                 links_list.append({
                     'type': 'curseforge',
                     'url': f'https://www.curseforge.com/minecraft/mc-mods/{CFID}'
@@ -282,11 +194,15 @@ for i, file in enumerate(file_list):
                 'url': f'https://www.mcmod.cn/class/{NAME}.html'
             })
             if MCBBS is not None:
+                if '&' in MCBBS:
+                    MCBBS = MCBBS[:MCBBS.index("&")]
                 links_list.append({
                     'type': 'mcbbs',
                     'url': f'https://www.mcbbs.net/thread-{MCBBS}-1-1.html'
                 })
             if MRID is not None:
+                if '/versions' in MRID:
+                    MRID = MRID[:MRID.index("/versions")]
                 links_list.append({
                     'type': 'modrinth',
                     'url': f'https://www.modrinth.com/mod/{MRID}'
