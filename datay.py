@@ -2,10 +2,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-skip = [
-    'Minecraft',
-    'The Building Game'
-]
+skip = []
 
 mcmodwebdata_path = os.path.join(os.getcwd(), 'mcmodwebdatay')
 if not os.path.exists(mcmodwebdata_path):
@@ -177,7 +174,7 @@ for i, file in enumerate(file_list):
             ENAME = None if data_multi_id_ename is None else data_multi_id_ename['value']
 
             if ENAME in skip:
-                continue    
+                continue
 
             links_list = []
             if CFID is not None:

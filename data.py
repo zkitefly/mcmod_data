@@ -4,7 +4,9 @@ from bs4 import BeautifulSoup
 
 skip = [
     'Minecraft',
-    'The Building Game'
+    'The Building Game',
+    'Legacy Fabric API',
+    'Legacy Fabric'
 ]
 
 mcmodwebdata_path = os.path.join(os.getcwd(), 'mcmodwebdata')
@@ -177,7 +179,7 @@ for i, file in enumerate(file_list):
             ENAME = None if data_multi_id_ename is None else data_multi_id_ename['value']
 
             if ENAME in skip:
-                continue    
+                continue
 
             links_list = []
             if CFID is not None:
